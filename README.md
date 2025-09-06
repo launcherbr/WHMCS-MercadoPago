@@ -1,4 +1,4 @@
-<div align="center"><img alt="WHMCS-MercadoPago" src="https://marketplace.whmcs.com/product/6720/images/icon200-33f47d0aa2c9182c7307756fa9b0276f.png"></div>
+\<div align="center"\>\<img alt="WHMCS-MercadoPago" src="[https://marketplace.whmcs.com/product/6720/images/icon200-33f47d0aa2c9182c7307756fa9b0276f.png](https://marketplace.whmcs.com/product/6720/images/icon200-33f47d0aa2c9182c7307756fa9b0276f.png)"\>\</div\>
 
 # WHMCS-MercadoPago
 
@@ -6,36 +6,36 @@ Módulo de gateway de pagamento do WHMCS para integrar o Mercado Pago
 
 ## Características
 
-- Soporte para múltiples cuentas de Mercado Pago en diferentes países
-- Configuración de cada cuenta por separado en el apartado de gateways / pasarelas de pago de WHMCS
-- Soporte para múltiples monedas
-- Soporte para varios idiomas
-- Opciones para seleccionar los métodos de pago permitidos en Mercado Pago
-- Implementación de Callback (IPN) en tiempo real o en queue
-- Compatible con WHMCS versión 8
-- [Changelog](https://github.com/fedealvz/WHMCS-MercadoPago/releases)
+  - Suporte para múltiplas contas do Mercado Pago em diferentes países
+  - Configuração de cada conta separadamente na seção de gateways de pagamento do WHMCS
+  - Suporte para múltiplas moedas
+  - Suporte para vários idiomas
+  - Opções para selecionar os meios de pagamento permitidos no Mercado Pago
+  - Implementação de Callback (IPN) em tempo real ou em fila
+  - Compatível com WHMCS versão 8
+  - [Changelog](https://github.com/fedealvz/WHMCS-MercadoPago/releases)
 
 ## Aviso Legal
 
-Este módulo es una remake que está basada en el módulo discontinuado de Bayresapp v17 (junio de 2021). He intentado mantenerlo lo más similar posible para que quienes lo usaban puedan seguir haciéndolo con este nuevo módulo.
+Este módulo é um remake baseado no módulo descontinuado da Bayresapp v17 (junho de 2021). Tentei mantê-lo o mais semelhante possível para que aqueles que o usavam possam continuar a fazê-lo com este novo módulo.
 
-Este módulo es libre y de código abierto. No cuenta con soporte comercial, versión paga ni opciones de donación.
+Este módulo é livre e de código aberto. Não possui suporte comercial, versão paga ou opções de doação.
 
-Este módulo no pertenece ni es gestionado por Mercado Pago, y Mercado Pago no tiene ninguna relación de recomendación, control, revisión, patrocinio, aprobación, administración, garantía o aval con respecto a este módulo.
+Este módulo não pertence nem é gerenciado pelo Mercado Pago, e o Mercado Pago não tem nenhuma relação de recomendação, controle, revisão, patrocínio, aprovação, administração, garantia ou endosso com respeito a este módulo.
 
-## Soporte Comunitario
+## Suporte Comunitário
 
-Para reportar errores, sugerir mejoras o plantear dudas, utiliza la sección de Issues o Pull Requests en el repositorio original de GitHub. Eres libre de hacer un fork y modificar el módulo sin restricciones.
+Para relatar erros, sugerir melhorias ou tirar dúvidas, utilize a seção de Issues ou Pull Requests no repositório original do GitHub. Você é livre para fazer um fork e modificar o módulo sem restrições.
 
-## Instalación
+## Instalação
 
-Sube o reemplaza los archivos en los directorios correspondientes de WHMCS (addon module y gateway). Si estás reemplazando el módulo de Bayresapp, todas las configuraciones y tablas de la base de datos se mantendrán intactas.
+Faça o upload ou substitua os arquivos nos diretórios correspondentes do WHMCS (módulo de addon e gateway). Se você estiver substituindo o módulo da Bayresapp, todas as configurações e tabelas do banco de dados permanecerão intactas.
 
-Si apareciera un error en la página principal del admin de WHMCS referido a un widget preexistente de Bayresapp, elimina dicho widget para resolverlo.
+Se aparecer um erro na página principal do admin do WHMCS referente a um widget pré-existente da Bayresapp, exclua o referido widget para resolvê-lo.
 
-## ¡Apoya el Proyecto!
+## Apoie o Projeto\!
 
-⭐️ *¿Te ha resultado útil este módulo?* Ayúdame a mejorarlo dejando una estrella en GitHub y una reseña en el [Marketplace de WHMCS](https://marketplace.whmcs.com/product/6720-mercadopago-gateway#reviews). Esto contribuye a que más personas conozcan y confíen en esta herramienta. ¡Gracias por tu apoyo!
+⭐️ *Este módulo foi útil para você?* Ajude-me a melhorá-lo deixando uma estrela no GitHub e uma avaliação no [Marketplace do WHMCS](https://marketplace.whmcs.com/product/6720-mercadopago-gateway#reviews). Isso contribui para que mais pessoas conheçam e confiem nesta ferramenta. Obrigado pelo seu apoio\!
 
 ## Autor
 
