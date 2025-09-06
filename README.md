@@ -1,5 +1,3 @@
-\<div align="center"\>\<img alt="WHMCS-MercadoPago" src="[https://marketplace.whmcs.com/product/6720/images/icon200-33f47d0aa2c9182c7307756fa9b0276f.png](https://marketplace.whmcs.com/product/6720/images/icon200-33f47d0aa2c9182c7307756fa9b0276f.png)"\>\</div\>
-
 # WHMCS-MercadoPago
 
 Módulo de gateway de pagamento do WHMCS para integrar o Mercado Pago
