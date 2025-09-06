@@ -2,14 +2,7 @@
 
 # WHMCS-MercadoPago
 
-Módulo de gateway de pago de WHMCS para integrar Mercado Pago
-
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Ffedealvz%2FWHMCS-MercadoPago)](https://twitter.com/intent/tweet?text=M%C3%B3dulo%20de%20MercadoPago%20para%20WHMCS%20Open-Source%20%40fedealvz%20%F0%9F%91%89%F0%9F%8F%BC&url=https://github.com/fedealvz/WHMCS-MercadoPago)
-[![WHMCS Marketplace](https://img.shields.io/badge/WHMCS-Marketplace-blue)](https://marketplace.whmcs.com/product/6720-mercadopago-gateway)
-[![GitHub issues](https://img.shields.io/github/issues/fedealvz/WHMCS-MercadoPago)](https://github.com/fedealvz/WHMCS-MercadoPago/issues)
-![GitHub forks](https://img.shields.io/github/forks/fedealvz/WHMCS-MercadoPago?style=social)
-![GitHub stars](https://img.shields.io/github/stars/fedealvz/WHMCS-MercadoPago?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/fedealvz/WHMCS-MercadoPago?style=social)
+Módulo de gateway de pagamento do WHMCS para integrar o Mercado Pago
 
 ## Características
 
