@@ -38,3 +38,8 @@ Se aparecer um erro na página principal do admin do WHMCS referente a um widget
 ## Autor
 
 👨🏼‍💻️ [Federico Álvarez](https://federicoalvarez.net)
+
+👨🏼‍💻️ [Repositório Original](https://github.com/fedealvz/WHMCS-MercadoPago)
+
+Manutenções e Atualziações  Leandro Palmeira (https://github.com/palmeirarocha), Launcher & Co (https://github.com/laucnherbr).
+
