@@ -33,7 +33,7 @@ Se aparecer um erro na página principal do admin do WHMCS referente a um widget
 
 ## Apoie o Projeto\!
 
-⭐️ *Este módulo foi útil para você?* Ajude-me a melhorá-lo deixando uma estrela no GitHub e uma avaliação no [Marketplace do WHMCS](https://marketplace.whmcs.com/product/6720-mercadopago-gateway#reviews). Isso contribui para que mais pessoas conheçam e confiem nesta ferramenta. Obrigado pelo seu apoio\!
+⭐️ *Este módulo foi útil para você?* Ajude-me a melhorá-lo deixando uma estrela no GitHub e uma avaliação no [Marketplace do WHMCS](https://marketplace.whmcs.com/product/6720-mercadopago-gateway#reviews).</br> Isso contribui para que mais pessoas conheçam e confiem nesta ferramenta. Obrigado pelo seu apoio\!
 
 ## Autor
 
