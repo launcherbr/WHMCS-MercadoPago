@@ -42,5 +42,5 @@ Se aparecer um erro na página principal do admin do WHMCS referente a um widget
 👨🏼‍💻️ [Repositório Original](https://github.com/fedealvz/WHMCS-MercadoPago)
 
 Manutenções e Atualizações: </br>
-Leandro Palmeira (https://github.com/palmeirarocha), Launcher & Co (https://github.com/launcherbr).
+Leandro Palmeira (https://github.com/palmeirarocha), Launcher Tecnologia (https://github.com/launchertecnologia).
 
