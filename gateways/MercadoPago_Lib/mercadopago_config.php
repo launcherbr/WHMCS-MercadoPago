@@ -328,9 +328,7 @@ class MercadopagoConfig
                     $resultado = Capsule::table("bapp_mercadopago")->where("id", "=", $mp_id)->delete();
                 } else {
                     if ($status == "pending") {
-                        $command = "UpdateInvoice";
-                        $postData = array("invoiceid" => $datosdelpago["external_reference"], "notes" => date("Y-m-d H:i:s") . ": " . traduccion($idioma, "mpconfig_76") . "\r\n                        [" . ucwords($datosdelpago["payment_type_id"]) . " - " . ucwords($datosdelpago["payment_method_id"]) . "]");
-                        $results = localAPI($command, $postData, $adminUsername);
+                        $invoiceId = $datosdelpago["external_reference"];
                         $texto_log = "\r\n                    " . traduccion($idioma, "mpconfig_56") . ": " . $datosdelpago["external_reference"] . "\r\n                    " . traduccion($idioma, "mpconfig_57") . ": " . $GATEWAY["name"] . "\r\n                    " . traduccion($idioma, "mpconfig_58") . ": " . $mp_transaccion . "\r\n                    " . traduccion($idioma, "mpconfig_62") . ": " . $datosdelpago["payment_type_id"] . " - " . $datosdelpago["payment_method_id"];
                         logTransaction($GATEWAY["name"], $texto_log, traduccion($idioma, "mpconfig_76") . " [" . $datosdelpago["external_reference"] . "]");
                         //DETALLE DE LA API DE MP
